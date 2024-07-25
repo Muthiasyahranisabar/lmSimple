@@ -1,2 +1,0 @@
-# lmSimple
-kelompok 2
